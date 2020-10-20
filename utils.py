@@ -7,7 +7,7 @@ import ipywidgets as widgets
 import IPython.display as display
 
 
-def imshow(x):
+def imshow_mpl(x):
   '''
   Plots image x (in cwh order) proportional to its original size.
   '''
@@ -22,6 +22,13 @@ def imshow(x):
   ax.set_axis_off()
   return ax
 
+def imshow(x):
+  '''
+  Plots image x (in cwh order) proportional to its original size.
+  '''
+  x = np.squeeze(x).transpose((1, 2, 0)).astype(np.uint8)
+  display.display(Image.fromarray(x))
+  
 
 def get_image(url):
   '''
@@ -37,11 +44,8 @@ def interct_imshow(img_list):
   Given a list of images in cwh order, creates an interactive slider and shows
   each list element.
   '''
-  # img_list = np.squeeze(img_list).transpose(0, 2, 3, 1).astype(np.uint8)
   interact(
-    # lambda img_list, idx: display.display(Image.fromarray(img_list[idx])),
     lambda idx: imshow(img_list[idx]),
-    # img_list=fixed(img_list),
     idx=widgets.IntSlider(min=0, max=len(img_list)-1, step=1, value=0),
     continuous_update=False)
 
