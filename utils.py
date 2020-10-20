@@ -37,11 +37,13 @@ def interct_imshow(img_list):
   Given a list of images in cwh order, creates an interactive slider and shows
   each list element.
   '''
-  img_list = np.squeeze(img_list).transpose(0, 2, 3, 1).astype(np.uint8)
-  interact(lambda img_list, idx: display.display(Image.fromarray(img_list[idx])),
-      img_list=fixed(img_list),
-      idx=widgets.IntSlider(min=0, max=len(img_list)-1, step=1, value=0),
-      continuous_update=False)
+  # img_list = np.squeeze(img_list).transpose(0, 2, 3, 1).astype(np.uint8)
+  interact(
+    # lambda img_list, idx: display.display(Image.fromarray(img_list[idx])),
+    lambda idx: imshow(img_list[idx]),
+    # img_list=fixed(img_list),
+    idx=widgets.IntSlider(min=0, max=len(img_list)-1, step=1, value=0),
+    continuous_update=False)
 
 
 def get_vgg19_layer_names(model):
