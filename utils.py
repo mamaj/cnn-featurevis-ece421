@@ -26,7 +26,6 @@ def imshow(x):
   '''
   Plots image x (in cwh order) proportional to its original size.
   '''
-  
   x = np.array(x).squeeze().transpose((1, 2, 0)).astype(np.uint8)
   display.display(Image.fromarray(x))
   
@@ -40,15 +39,21 @@ def get_image(url):
   return im.transpose(2, 0, 1)
 
 
-def interct_imshow(img_list):
+def interct_imshow(img_list, description='iteration'):
   '''
   Given a list of images in cwh order, creates an interactive slider and shows
   each list element.
   '''
   interact(
     lambda idx: imshow(img_list[idx]),
-    idx=widgets.IntSlider(min=0, max=len(img_list)-1, step=1, value=0),
-    continuous_update=False)
+    idx=widgets.IntSlider(
+      min=0,
+      max=len(img_list)-1,
+      step=1,
+      value=len(img_list)-1), 
+      continuous_update=False,
+      description=description
+    )
 
 
 def get_vgg19_layer_names(model):
