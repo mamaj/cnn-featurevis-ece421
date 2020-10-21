@@ -11,7 +11,7 @@ def imshow_mpl(x):
   '''
   Plots image x (in cwh order) proportional to its original size.
   '''
-  x = np.squeeze(x).transpose((1, 2, 0)).astype(np.uint8)
+  x = np.array(x).squeeze().transpose((1, 2, 0)).astype(np.uint8)
 
   dpi = plt.rcParams['figure.dpi']
   height, width, depth = x.shape
@@ -26,7 +26,8 @@ def imshow(x):
   '''
   Plots image x (in cwh order) proportional to its original size.
   '''
-  x = np.squeeze(x).transpose((1, 2, 0)).astype(np.uint8)
+  
+  x = np.array(x).squeeze().transpose((1, 2, 0)).astype(np.uint8)
   display.display(Image.fromarray(x))
   
 
