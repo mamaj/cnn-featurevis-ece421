@@ -73,9 +73,6 @@
 `lodhimateen`
 [![lodhimateen](https://github.com/mamaj/cnn-featurevis-ece421/raw/master/student_results/lodhimateen_sidebyside.png)](https://github.com/mamaj/cnn-featurevis-ece421/raw/master/student_results/lodhimateen_sidebyside.png)      
 
-`names.py`
-[![names.py](https://github.com/mamaj/cnn-featurevis-ece421/raw/master/student_results/names.py)](https://github.com/mamaj/cnn-featurevis-ece421/raw/master/student_results/names.py)
-
 `nandurisubhang`
 [![nandurisubhang](https://github.com/mamaj/cnn-featurevis-ece421/raw/master/student_results/nandurisubhang_sidebyside.png)](https://github.com/mamaj/cnn-featurevis-ece421/raw/master/student_results/nandurisubhang_sidebyside.png)
 
