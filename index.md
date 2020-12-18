@@ -6,8 +6,6 @@
 
 [![12.png](https://github.com/mamaj/cnn-featurevis-ece421/raw/master/student_results/anonymous/12.png)](https://github.com/mamaj/cnn-featurevis-ece421/raw/master/student_results/anonymous/12.png)
 
-[![13.png](https://github.com/mamaj/cnn-featurevis-ece421/raw/master/student_results/anonymous/13.png)](https://github.com/mamaj/cnn-featurevis-ece421/raw/master/student_results/anonymous/13.png)
-
 [![14.png](https://github.com/mamaj/cnn-featurevis-ece421/raw/master/student_results/anonymous/14.png)](https://github.com/mamaj/cnn-featurevis-ece421/raw/master/student_results/anonymous/14.png)
 
 [![15.png](https://github.com/mamaj/cnn-featurevis-ece421/raw/master/student_results/anonymous/15.png)](https://github.com/mamaj/cnn-featurevis-ece421/raw/master/student_results/anonymous/15.png)
