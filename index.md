@@ -1,5 +1,5 @@
 [![47](https://github.com/mamaj/cnn-featurevis-ece421/raw/master/student_results/anonymous/47.png)](https://github.com/mamaj/cnn-featurevis-ece421/raw/master/student_results/anonymous/47.png)
-
+  
 [![42](https://github.com/mamaj/cnn-featurevis-ece421/raw/master/student_results/anonymous/42.png)](https://github.com/mamaj/cnn-featurevis-ece421/raw/master/student_results/anonymous/42.png)
 
 [![40](https://github.com/mamaj/cnn-featurevis-ece421/raw/master/student_results/anonymous/40.png)](https://github.com/mamaj/cnn-featurevis-ece421/raw/master/student_results/anonymous/40.png)
@@ -11,6 +11,8 @@
 [![38](https://github.com/mamaj/cnn-featurevis-ece421/raw/master/student_results/anonymous/38.png)](https://github.com/mamaj/cnn-featurevis-ece421/raw/master/student_results/anonymous/38.png)
 
 [![34](https://github.com/mamaj/cnn-featurevis-ece421/raw/master/student_results/anonymous/34.png)](https://github.com/mamaj/cnn-featurevis-ece421/raw/master/student_results/anonymous/34.png)
+
+[![1](https://github.com/mamaj/cnn-featurevis-ece421/raw/master/student_results/anonymous/1.png)](https://github.com/mamaj/cnn-featurevis-ece421/raw/master/student_results/anonymous/1.png)
 
 [![31](https://github.com/mamaj/cnn-featurevis-ece421/raw/master/student_results/anonymous/31.png)](https://github.com/mamaj/cnn-featurevis-ece421/raw/master/student_results/anonymous/31.png)
 
@@ -28,11 +30,7 @@
 
 [![10](https://github.com/mamaj/cnn-featurevis-ece421/raw/master/student_results/anonymous/10.png)](https://github.com/mamaj/cnn-featurevis-ece421/raw/master/student_results/anonymous/10.png)
 
-[![1](https://github.com/mamaj/cnn-featurevis-ece421/raw/master/student_results/anonymous/1.png)](https://github.com/mamaj/cnn-featurevis-ece421/raw/master/student_results/anonymous/1.png)
-
 [![11](https://github.com/mamaj/cnn-featurevis-ece421/raw/master/student_results/anonymous/11.png)](https://github.com/mamaj/cnn-featurevis-ece421/raw/master/student_results/anonymous/11.png)
-
-[![13](https://github.com/mamaj/cnn-featurevis-ece421/raw/master/student_results/anonymous/13.png)](https://github.com/mamaj/cnn-featurevis-ece421/raw/master/student_results/anonymous/13.png)
 
 [![14](https://github.com/mamaj/cnn-featurevis-ece421/raw/master/student_results/anonymous/14.png)](https://github.com/mamaj/cnn-featurevis-ece421/raw/master/student_results/anonymous/14.png)
 
@@ -77,7 +75,7 @@
 [![43](https://github.com/mamaj/cnn-featurevis-ece421/raw/master/student_results/anonymous/43.png)](https://github.com/mamaj/cnn-featurevis-ece421/raw/master/student_results/anonymous/43.png)
 
 [![44](https://github.com/mamaj/cnn-featurevis-ece421/raw/master/student_results/anonymous/44.png)](https://github.com/mamaj/cnn-featurevis-ece421/raw/master/student_results/anonymous/44.png)
-  
+
 [![45](https://github.com/mamaj/cnn-featurevis-ece421/raw/master/student_results/anonymous/45.png)](https://github.com/mamaj/cnn-featurevis-ece421/raw/master/student_results/anonymous/45.png)
 
 [![46](https://github.com/mamaj/cnn-featurevis-ece421/raw/master/student_results/anonymous/46.png)](https://github.com/mamaj/cnn-featurevis-ece421/raw/master/student_results/anonymous/46.png)
